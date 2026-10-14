@@ -1,0 +1,5 @@
+data_path: data/raw/train_FD001.txt
+target_cap: 125
+test_size: 0.2
+random_state: 42
+
